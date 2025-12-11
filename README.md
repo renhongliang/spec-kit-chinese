@@ -652,3 +652,7 @@ rm gcm-linux_amd64.2.6.1.deb
 ## 📄 许可证
 
 本项目根据 MIT 开源许可证的条款获得许可。请参阅 [LICENSE](./LICENSE) 文件了解完整条款。
+
+本项目仅仅将SPEC KIT 全部汉化，方便大家学习理解
+欢迎大家关注我，一起研讨学习SDD
+![公众号](./media/qrcode.jpg)
